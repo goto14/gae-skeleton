@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+
+Pipfile.lock
+
+# Python pycache:
+__pycache__/
+# Ignored by the build system
+/setup.cfg
